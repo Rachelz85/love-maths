@@ -1,4 +1,4 @@
-// Wait for the DOM to finish loading before running the game
+// Wait for the Dom to finish loading before running the game
 // Get the button elements and add events listeners to them
 
 document.addEventListener("DOMContentLoaded", function() {
